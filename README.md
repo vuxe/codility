@@ -1,2 +1,2 @@
 # codility
-codility lessons solution
+codility training exercices
